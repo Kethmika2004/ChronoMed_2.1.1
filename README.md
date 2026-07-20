@@ -1,4 +1,4 @@
-# 🏥 ChronoMed v2.1
+# 🏥 ChronoMed v2.1.1
 
 > A modern, secure, and concurrent safe hospital queue management system that simplifies appointment booking and enables real time queue management for both patients and doctors.
 
