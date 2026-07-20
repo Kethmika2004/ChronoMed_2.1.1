@@ -8,3 +8,9 @@ skills-lock.json
 .env
 backend/.env
 frontend/.env
+
+frontend/android/app/build/
+frontend/android/build/
+frontend/android/.gradle/
+frontend/android/local.properties
+frontend/android/capacitor-cordova-android-plugins/build/
